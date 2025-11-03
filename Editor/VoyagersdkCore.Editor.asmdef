@@ -1,0 +1,7 @@
+{
+  "name": "VoyagerSDKCore.Editor",
+  "rootNamespace": "VoyagerSDK.Editor",
+  "references": [ "VoyagerSDKCore" ],
+  "includePlatforms": [ "Editor" ],
+  "autoReferenced": true
+}
