@@ -1,0 +1,9 @@
+{
+  "name": "VoyagerSDKCore",
+  "rootNamespace": "VoyagerSDK",
+  "references": [],
+  "optionalUnityReferences": [],
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "noEngineReferences": false
+}
